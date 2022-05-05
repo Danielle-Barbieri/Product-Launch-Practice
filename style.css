@@ -4,11 +4,14 @@ h1 {
 body {
     background-color: darkgrey;
 }
-.Parks {
+.parks {
     color:darkslateblue
 }
 img {
     display: block;
     margin-left: auto; 
     margin-right: auto;
+}
+.frenemies {
+    color: crimson;
 }
