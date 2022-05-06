@@ -1,17 +1,34 @@
+* {
+    box-sizing: border-box ;
+}
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
 h1 {
-    color:darkgreen
+    color:rgb(100, 0, 87)
 }
-body {
-    background-color: darkgrey;
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
 }
+
 .parks {
     color:darkslateblue
 }
 img {
     display: block;
     margin-left: auto; 
-    margin-right: auto;
+    margin-right: auto
 }
-.frenemies {
+
+.parks {
+    color: rgb(255, 80, 165);
+    background-color: azure;
+}
+
+.frenemies:hover {
     color: crimson;
 }
